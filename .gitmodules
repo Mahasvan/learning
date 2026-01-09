@@ -1,3 +1,6 @@
-[submodule "Day 2/Mopoken"]
-	path = Day 2/Mopoken
+[submodule "Day 2 - Mopoken"]
+	path = Day 2 - Mopoken
 	url = https://github.com/Mahasvan/Mopoken
+[submodule "Day 4 - Lisp"]
+	path = Day 4 - LispInterpreter
+	url = https://github.com/mahasvan/LispInterpreter
