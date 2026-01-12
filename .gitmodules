@@ -4,3 +4,6 @@
 [submodule "Day 4 - Lisp"]
 	path = Day 4 - LispInterpreter
 	url = https://github.com/mahasvan/LispInterpreter
+[submodule "Day 5 - Git"]
+	path = Day 5 - Git
+	url = https://github.com/Mahasvan/gitLearn
